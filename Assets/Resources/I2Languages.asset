@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Select Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Select Level
+      - Odaberi razinu
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Music Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - Music Volume
+      - "Glasno\u0107a glazbe"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: SFX Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - SFX Volume
+      - "Glasno\u0107a efekata"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description: 
+      Languages:
+      - Language
+      - Jezik
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Dominant Hand
+      TermType: 0
+      Description: 
+      Languages:
+      - Dominant Hand
+      - Dominantna ruka
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Reset Progress
+      TermType: 0
+      Description: 
+      Languages:
+      - Reset Progress
+      - "Poni\u0161ti napredak"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Level
+      - Razina
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Elapsed Time
+      TermType: 0
+      Description: 
+      Languages:
+      - Elapsed Time
+      - Proteklo vrijeme
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Attempts
+      TermType: 0
+      Description: 
+      Languages:
+      - Attempts
+      - "Poku\u0161aji"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Paused
+      TermType: 0
+      Description: 
+      Languages:
+      - Paused
+      - Pauzirano
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Level Completed
+      TermType: 0
+      Description: 
+      Languages:
+      - You have successfully completed Level
+      - "Uspje\u0161no ste zavr\u0161ili razinu"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - Postavke
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Left
+      TermType: 0
+      Description: 
+      Languages:
+      - Left
+      - Lijeva
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Right
+      TermType: 0
+      Description: 
+      Languages:
+      - Right
+      - Desna
+      Flags: 0000
+      Languages_Touch: []
+    - Term: English
+      TermType: 0
+      Description: 
+      Languages:
+      - English
+      - Engleski
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Croatian
+      TermType: 0
+      Description: 
+      Languages:
+      - Croatian
+      - Hrvatski
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Invalid Wire
+      TermType: 0
+      Description: 
+      Languages:
+      - Ignore non-silver wires
+      - "Ignorirajte nesrebrne \u017Eice"
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Croatian
+      Code: hr
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
